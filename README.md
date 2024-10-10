@@ -2,7 +2,7 @@
 ## Mnożenie transpozycji macierzy przez wektor
 Dana jest tabela zawierająca liczby rzeczywiste. Tabela składa się z m wierszy oraz n+1 kolumn. Kolejne n kolumn tabeli stanowi reprezentację pewnej macierzy X , zaś kolumna n n+1 -sza jest reprezentacją wektora y .
 
-Napisać program, który znajdzie iloczyn XTy.
+Napisać program, który znajdzie iloczyn X<sup>T</sup>y.
 
 ### Wejście
 Na wejściu programu znajdują się następujące elementy:
